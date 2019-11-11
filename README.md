@@ -1,5 +1,5 @@
 # SAGAN
-SA in cGAN with GP and Hingeloss
+SA in cGAN with GP and Hingeloss in Keras
 - No Conditional_BatchNorm
 - Basic Condition GAN
 
