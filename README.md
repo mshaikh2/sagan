@@ -10,7 +10,7 @@ SA in cGAN with GP and Hingeloss
 
 
 
-|![Image_fmnist_Gen_SAGAN](fmnist_random_gen.png "FMNIST Generated Images SAGAN with Projection")|
+|![Image_fmnist_Gen_SAGAN](fmnist_random_gen_2.png "FMNIST Generated Images SAGAN with Projection")|
 |:--:|
 |**Fig. 2:** FMNIST Generated Images SAGAN with Projection|
 
