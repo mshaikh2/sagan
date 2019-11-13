@@ -24,6 +24,6 @@ SA in cGAN with GP and Hingeloss in Keras
 
 
 # References
-[i1] (https://github.com/taki0112/Self-Attention-GAN-Tensorflow/blob/master/SAGAN.py)
-[i2] (https://github.com/heykeetae/Self-Attention-GAN)
-[i3] (https://github.com/keras-team/keras-contrib/blob/master/examples/improved_wgan.py)
+[i1](https://github.com/taki0112/Self-Attention-GAN-Tensorflow/blob/master/SAGAN.py)
+[i2](https://github.com/heykeetae/Self-Attention-GAN)
+[i3](https://github.com/keras-team/keras-contrib/blob/master/examples/improved_wgan.py)
