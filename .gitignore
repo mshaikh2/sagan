@@ -1,0 +1,6 @@
+PyTorch-cSAWGAN/__pycache__/*
+PyTorch-cSAWGAN/Cache/*
+PyTorch-cSAWGAN/Checkpoints/*
+PyTorch-cSAWGAN/Data/*
+PyTorch-cSAWGAN/Logs/*
+PyTorch-cSAWGAN/.ipynb_checkpoints/*
